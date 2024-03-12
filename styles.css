@@ -1,3 +1,23 @@
-#main {
-    background-color: aquamarine;
+.main {
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+li {
+    padding: 30px;
+    width: 100px;
+    margin-bottom: 10px;
+    list-style-type: none;
+    border-radius: 10px;
+}
+
+.carrots {
+    background-color: rgb(242, 167, 40);
+}
+
+.naan {
+    background-color: rgb(225, 193, 110);
+}
+
+.tea {
+    background-color: rgb(187, 85, 38);
 }
