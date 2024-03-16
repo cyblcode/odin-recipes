@@ -21,3 +21,13 @@ li {
 .tea {
     background-color: rgb(187, 85, 38);
 }
+
+a:link, a:visited {
+    color: rgb(146, 78, 5);
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: dotted;
+}
