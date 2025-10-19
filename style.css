@@ -1,3 +1,31 @@
 * {
     font-family: 'Segoe UI', sans-serif;
 }
+
+a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.box {
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.box:hover {
+    background-color: cornflowerblue;
+}
+
+.cookies {
+    background-color: brown;
+}
+
+.butter-chicken {
+    background-color: orangered;
+}
+
+.naan {
+    background-color: #e3d0a5;
+}
